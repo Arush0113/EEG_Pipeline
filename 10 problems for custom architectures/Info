@@ -1,0 +1,3 @@
+This folder has the problems given at the beginning for developing custom architectures for different tasks of NLP, Computer Vision and Time series analysis.
+All the tasks have been perfoemed using the Keras API (including functional and subclassing). 
+Here I have also built custom architectures with custom training loops and custom layers and models.
