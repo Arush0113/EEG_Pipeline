@@ -1,1 +1,3 @@
-
+The entire reading and preprocessing the data has been done in the file Pre-processing main.ipynb. 
+After all the preprocessing and visualising the data, the file Machine_learning.ipynb contains all our different architectures and their results.
+We have also created a file basic models.ipynb, where we have directly put the standard models like SVM, logistic regression etc. for our problem.
